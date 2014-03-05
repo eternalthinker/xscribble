@@ -1,4 +1,4 @@
 xscribble
 =========
 
-A desktop client for drawing chat in gmail
+A Gtalk desktop client for drawing chat
